@@ -1,0 +1,4 @@
+NOMBRE,DIRECCCION,LATITUD,LONGITUD,RECOMIENDA
+Sears Monterrey Centro,C. Padre Mier 143 Centro 64000 Monterrey N.L.,25.669154, -100.315822,SI
+El Palacio de Hierro Monterrey,Centro Comercial Paseo San Pedro Avenida José Vasconcelos 402 Zona la Alianza 66220 San Pedro Garza García N.L.,25.651152, -100.359584,NO
+Sanborns Monterrey Centro,Mariano Escobedo Sur 920 Centro 64000 Monterrey N.L.,25.667177, -100.312379,SI

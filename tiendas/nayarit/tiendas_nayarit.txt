@@ -1,0 +1,4 @@
+NOMBRE,DIRECCCION,LATITUD,LONGITUD,RECOMIENDA
+Liverpool Tepic Centro,Av México Nte 104 Centro 63000 Tepic Nay,21.510307, -104.891713,SI
+Coppel Cigarrera,Av Insurgentes #368 Los Llanitos 63170 Tepic Nay,21.496913, -104.883377,SI
+Coppel Mololoa,Av. Guadalupe Victoria #62 Centro 63010 Tepic Nay,21.515650, -104.891059,SI

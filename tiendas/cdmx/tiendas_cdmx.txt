@@ -1,0 +1,5 @@
+NOMBRE,DIRECCCION,LATITUD,LONGITUD,RECOMIENDA
+Coppel Uruguay,José María Pino Suárez #25 Centro Histórico de la Cdad. de México Centro Cuauhtémoc 06000 Ciudad de México CDMX,19.429866, -99.132640,SI
+Sears Villacoapa,Canal de Miramontes 3122 Coapa Residencial Miramontes Tlalpan 14308 Ciudad de México CDMX,19.302923, -99.122439,SI
+Sanborns Boker,Isabel La Católica 35 Centro Histórico de la Cdad. de México Centro Cuauhtémoc 06000 Ciudad de México CDMX,19.432410, -99.136627
+Sanborns Villa Coapa,Calz Acoxpa 728 Coapa Tlalpan 14390 Ciudad de México CDMX,19.294038, -99.125782,NO

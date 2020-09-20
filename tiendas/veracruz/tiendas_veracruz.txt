@@ -1,0 +1,4 @@
+NOMBRE,DIRECCCION,LATITUD,LONGITUD,RECOMIENDA
+Sears Veracruz Centro,Centro,Calle Francisco Canal 736 Centro 91700 Veracruz,19.196464, -96.136498,SI
+Sanborns Veracruz Calinda,Independencia No.1069 Centro 91700 Veracruz Ver.,19.200716, -96.139313,NO
+Coppel Allende,Avenida Ignacio Allende #2360 COL. CENTER. ESQ. WITH Calle Carlos Cruz Centro 91700 Veracruz Ver.,19.190166, -96.138786,SI
